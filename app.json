@@ -11,7 +11,7 @@
     "website": "https://TroJanzHEX.me",
     "repository": "https://github.com/TroJanzHEX/Unlimited-Filter-Bot",
     "success_url": "https://telegram.dog/TroJanzHEX",
-    "env": {
+    "env": {https
         "WEBHOOK": {
             "description": "No need to change this field!",
             "value": "ANYTHING"
